@@ -21,8 +21,4 @@ public class Humans {
        floor.choosingFloor(1);
        floor.functionSelection();
    }
-
-   protected void generalCharacteristicsHumans(){
-
-   }
 }
